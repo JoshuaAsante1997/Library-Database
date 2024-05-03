@@ -5,10 +5,14 @@
 This Library database project aims to efficiently manage book inventory, member data, and borrowing activities with this comprehensive database system tailored for libraries,utilizing relational database principles and SQL queries for seamless operations and insightful analytics.
 
 
-### Tools 
 
-- Quick DBD: Website used for creating entity relationship diagram [View here](https://app.quickdatabasediagrams.com/#/d/ztzmdP)
-- MySQL: Chosen database management system for project.
+
+### Key Highlights  
+
+- **Comprehensive Structure**: Meticulously crafted tables for books, authors, genres, members, and borrowings, reflecting a deep understanding of relational database principles.
+- **Data Integrity**: Implemented with precision, ensuring each column has appropriate data types and constraints for reliable data management and accuracy.
+- **Automation with Triggers**: Utilized triggers to automate crucial processes, such as updating book availability status, enhancing efficiency and maintaining database integrity.
+- **Realistic Sample Data**: Includes realistic sample data for thorough testing and demonstration, providing recruiters with a tangible understanding of my SQL skills.
 
 ### Preperation 
 
@@ -508,3 +512,14 @@ WHERE member_id IN(2013,2017);
 ### Challenges faced 
 
 One major challenge encountered during this project was populating the borrowings table before the genre table, resulting in error code 1452. Research revealed that attempting to populate the books table, which contains a foreign key constraint referencing the genres table, before the genres table was created led to this issue. This experience underscores the importance of understanding the sequence for populating tables in database creation to avoid such errors in the future.
+
+
+### Lessons learned 
+
+**Sequencing Importance**: Understanding the order of table population is crucial to prevent errors like code 1452 encountered when populating dependent tables before their references.
+
+**Trigger Efficiency**: Leveraging triggers for data integrity maintenance automated processes, ensuring real-time database accuracy and enforcing business rules effectively.
+
+**Documentation Clarity**: Comprehensive documentation, including design documents and data dictionaries, enhances project clarity and facilitates future maintenance and enhancements.
+
+**Problem-Solving Adaptability**: Encountering challenges like foreign key constraints reinforced the importance of adaptability and persistence in finding optimal solutions and overcoming obstacles efficiently.
