@@ -10,8 +10,11 @@ This Library database project aims to efficiently manage book inventory, member 
 ### Key Highlights  
 
 - **Comprehensive Structure**: Meticulously crafted tables for books, authors, genres, members, and borrowings, reflecting a deep understanding of relational database principles.
+  
 - **Data Integrity**: Implemented with precision, ensuring each column has appropriate data types and constraints for reliable data management and accuracy.
+  
 - **Automation with Triggers**: Utilized triggers to automate crucial processes, such as updating book availability status, enhancing efficiency and maintaining database integrity.
+  
 - **Realistic Sample Data**: Includes realistic sample data for thorough testing and demonstration, providing recruiters with a tangible understanding of my SQL skills.
 
 ### Preperation 
