@@ -25,10 +25,6 @@ This Library database project aims to efficiently manage book inventory, member 
   
 - **Realistic Sample Data**: Includes realistic sample data for thorough testing and demonstration, providing recruiters with a tangible understanding of my SQL skills.
 
-### Preperation 
-
-I created the entity relationship diagram (ERD) for my library database using the website https://www.quickdatabasediagrams.com/. This tool made it easy to design and visualise how the different parts of my database connect. I started by defining tables like books, authors, genres, members, and borrowings, and then I showed how they relate to each other. It was straightforward to drag and drop to make connections and set up the structure of the database.
-
 
 ### SQL script used to create database/tables
 
