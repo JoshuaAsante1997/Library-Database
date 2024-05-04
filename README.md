@@ -5,6 +5,17 @@
 This Library database project aims to efficiently manage book inventory, member data, and borrowing activities with this comprehensive database system tailored for libraries,utilizing relational database principles and SQL queries for seamless operations and insightful analytics.
 
 
+### Key Highlights  
+
+- **Comprehensive Structure**: Meticulously crafted tables for books, authors, genres, members, and borrowings, reflecting a deep understanding of relational database principles.
+  
+- **Data Integrity**: Implemented with precision, ensuring each column has appropriate data types and constraints for reliable data management and accuracy.
+  
+- **Automation with Triggers**: Utilized triggers to automate crucial processes, such as updating book availability status, enhancing efficiency and maintaining database integrity.
+  
+- **Realistic Sample Data**: Includes realistic sample data for thorough testing and demonstration, providing recruiters with a tangible understanding of my SQL skills.
+
+
 ##   Documentation
 
 ### Entity Relationship Diagram
@@ -17,16 +28,6 @@ I manually populated all tables. To assign genre IDs to the books table accurate
 <img width="403" alt="Lengend for genre and author tables" src="https://github.com/JoshuaAsante1997/Library-Database/assets/149339304/1d6630b1-e837-4e84-986b-14bb61423bde">
 
 
-
-### Key Highlights  
-
-- **Comprehensive Structure**: Meticulously crafted tables for books, authors, genres, members, and borrowings, reflecting a deep understanding of relational database principles.
-  
-- **Data Integrity**: Implemented with precision, ensuring each column has appropriate data types and constraints for reliable data management and accuracy.
-  
-- **Automation with Triggers**: Utilized triggers to automate crucial processes, such as updating book availability status, enhancing efficiency and maintaining database integrity.
-  
-- **Realistic Sample Data**: Includes realistic sample data for thorough testing and demonstration, providing recruiters with a tangible understanding of my SQL skills.
 
 
 ### SQL script used to create database/tables
