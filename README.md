@@ -169,7 +169,7 @@ ALTER TABLE members
 AUTO_INCREMENT = 2000;
 
 /* emails have been manually randomised for authenticity and realism 
-   based off the kinds of emails that I have seen customers have at my current job role */
+   based off the kind of emails that I have seen customers have at my current job role */
 
 INSERT INTO members (first_name, last_name, gender, email_address)
 VALUES
