@@ -5,6 +5,14 @@
 This Library database project aims to efficiently manage book inventory, member data, and borrowing activities with this comprehensive database system tailored for libraries,utilizing relational database principles and SQL queries for seamless operations and insightful analytics.
 
 
+##   Documentation
+
+### Entity Relationship Diagram
+![Entity Relationship Diagram](https://github.com/JoshuaAsante1997/Library-Database/assets/149339304/113e98e3-b20a-42ce-8d90-67b5aead4c75)
+
+### Database Legend 
+<img width="403" alt="Lengend for genre and author tables" src="https://github.com/JoshuaAsante1997/Library-Database/assets/149339304/1d6630b1-e837-4e84-986b-14bb61423bde">
+
 
 
 ### Key Highlights  
