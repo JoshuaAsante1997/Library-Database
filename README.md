@@ -11,6 +11,9 @@ This Library database project aims to efficiently manage book inventory, member 
 ![Entity Relationship Diagram](https://github.com/JoshuaAsante1997/Library-Database/assets/149339304/113e98e3-b20a-42ce-8d90-67b5aead4c75)
 
 ### Database Legend 
+
+I manually populated all tables. To assign genre IDs to the books table accurately, I created a legend, ensuring each book was categorised correctly and avoiding errors. Similarly, I created a legend for the authors table to easily assign the correct author ID in the books table.
+
 <img width="403" alt="Lengend for genre and author tables" src="https://github.com/JoshuaAsante1997/Library-Database/assets/149339304/1d6630b1-e837-4e84-986b-14bb61423bde">
 
 
