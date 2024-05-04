@@ -1,5 +1,7 @@
 # Library Database
 
+#### Full sql code can be found above as file ( library.sql   FULL PROJECT )
+
 ### Project Overview
 
 This Library database project aims to efficiently manage book inventory, member data, and borrowing activities with this comprehensive database system tailored for libraries,utilizing relational database principles and SQL queries for seamless operations and insightful analytics.
