@@ -1,6 +1,16 @@
-# Library Database
+# Library Database 📖
 
 #### Full sql code can be found above as file ( library.sql   FULL PROJECT )
+
+### Key Table of Contens
+
+- [Entity Relationship Diagram](#entity-relationship-diagram) 🖼️
+- [Database Legend](#database-legend) 💻
+- [Sql script used for triggers](#sql-script-used-for-triggers) 🖊️
+- [Sql script to populate borrowings table](#sql-script-to-populate-borrowings-table) 🖋️
+- [Script used to update membership status](#script-used-to-update-membership-status)🖊️
+- [Challenges faced](#challenges-faced) 🤯
+- [Lessons learned](#lessons-learned) 💡
 
 ### Project Overview
 
