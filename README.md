@@ -14,7 +14,7 @@
 
 ### Project Overview
 
-This Library database project aims to efficiently manage book inventory, member data, and borrowing activities with this comprehensive database system tailored for libraries,utilizing relational database principles and SQL queries for seamless operations and insightful analytics.
+This Library database project aims to efficiently manage book inventory, member data, and borrowing activities with this comprehensive database system tailored for libraries,utilising relational database principles and SQL queries for seamless operations and insightful analytics.
 
 
 ### Key Highlights  
